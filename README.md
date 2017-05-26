@@ -1,4 +1,4 @@
-# coracias
+# Coracias
 
 To run the project follow following stpes:
 ***
